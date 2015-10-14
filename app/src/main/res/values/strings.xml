@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+<string name="hello_world">Dakota Miller, Mobile Arch, Video Game Design</string>
+    <string name="action_settings">Settings</string>
+</resources>
